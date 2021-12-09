@@ -1,0 +1,22 @@
+
+[
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(»‚Àÿÿÿÿÿ
+A
+java:S1452"&Remove usage of generic wildcard type.(»‚Àÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÉªÄÇ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÁÁ¹Ùüÿÿÿÿ
+V	java:S125)"<This block of commented-out lines of code should be removed.(Œõ¡ûÿÿÿÿ
+;
+java:S14524"&Remove usage of generic wildcard type.(Áòş
+V	java:S1256"<This block of commented-out lines of code should be removed.(à…ÖÌşÿÿÿÿ
+[
+java:S4684;"@Replace this persistent entity with a simple POJO or DTO object.(œÊöúúÿÿÿÿ
+x
+java:S1128"VRemove this unused import 'com.exception.Global.Exception.Service.EmployeeServiceImp'.(˜ãÛùÿÿÿÿ8²ŸÈ°Õ/
+t
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(àîÕÎùÿÿÿÿ
+t
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(šù¢«ûÿÿÿÿ
+o
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç³ş
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äº–ùÿÿÿÿ

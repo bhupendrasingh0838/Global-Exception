@@ -1,0 +1,10 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(¯Ôë¸
+V	java:S125"<This block of commented-out lines of code should be removed.(Öâµÿÿÿÿÿ
+|
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "employee1".(…¢§²üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•Ì”§şÿÿÿÿ
+Y
+java:S3655-"7Call "Optional#isPresent()" before accessing the value.(Óû•åûÿÿÿÿ8—Ëï³Õ/
+T
+java:S3655("7Call "Optional#isPresent()" before accessing the value.(ŞÑ´å8—Ëï³Õ/

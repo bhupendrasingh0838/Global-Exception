@@ -1,0 +1,6 @@
+
+D
+java:S1165""Make this "errorCode" field final.(¾Õüÿÿÿÿ8É›ÑˆÕ/
+G
+java:S1165"%Make this "errorMessage" field final.(¥åˆüÿÿÿÿ8É›ÑˆÕ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈïÄƒ
